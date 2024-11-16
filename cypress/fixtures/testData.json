@@ -1,0 +1,25 @@
+{
+  "newUsers": [
+    {
+      "employeeName": "Jobin Mathew Sam",
+      "username": "jobin.sam2024",
+      "password": "TestPass123!",
+      "role": "ESS",
+      "status": "Enabled"
+    },
+    {
+      "employeeName": "Peter Mac Anderson",
+      "username": "peter.mac2024",
+      "password": "TestPass123!",
+      "role": "ESS",
+      "status": "Enabled"
+    },
+    {
+      "employeeName": "Joseph  Evans",
+      "username": "josheph.evans2024",
+      "password": "TestPass123!",
+      "role": "ESS",
+      "status": "Enabled"
+    }
+  ]
+}
