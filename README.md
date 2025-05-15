@@ -151,8 +151,7 @@ This project is licensed under the MIT License.
 
 **Hripsime Manukyan**
 
-* [LinkedIn](https://www.linkedin.com/in/hripsime-manukyan-0336901a0/)
-* [GitHub](https://github.com/HripsimeManukyan)
+
 
 
 
