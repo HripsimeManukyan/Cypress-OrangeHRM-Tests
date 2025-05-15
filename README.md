@@ -1,6 +1,4 @@
-Great! I see your **Cypress-OrangeHRM-Tests** project repo structure, with folders for locators, pages, tests, fixtures, and support, as well as sample test data. Below is a **professional README.md file** you can use for your repository. It includes an overview, folder structure, setup instructions, sample usage, and badges. You can copy and paste this directly to your repo, and update the badges if you want to link to your actual CI or coverage in the future.
 
----
 
 # Cypress-OrangeHRM-Tests ![Node.js CI](https://img.shields.io/badge/Node.js-%3E%3D14.0.0-brightgreen?logo=node.js) ![Cypress](https://img.shields.io/badge/Cypress-Testing-9cf?logo=cypress) ![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?logo=javascript)
 
